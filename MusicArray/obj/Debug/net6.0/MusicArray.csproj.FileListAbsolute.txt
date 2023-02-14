@@ -1,0 +1,15 @@
+C:\Users\Daniel\source\repos\Week 3\MusicArray\MusicArray\obj\Debug\net6.0\MusicArray.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\Week 3\MusicArray\MusicArray\obj\Debug\net6.0\MusicArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\Week 3\MusicArray\MusicArray\obj\Debug\net6.0\MusicArray.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\Week 3\MusicArray\MusicArray\obj\Debug\net6.0\MusicArray.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\Week 3\MusicArray\MusicArray\obj\Debug\net6.0\MusicArray.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Week 3\MusicArray\MusicArray\bin\Debug\net6.0\MusicArray.exe
+C:\Users\Daniel\source\repos\Week 3\MusicArray\MusicArray\bin\Debug\net6.0\MusicArray.deps.json
+C:\Users\Daniel\source\repos\Week 3\MusicArray\MusicArray\bin\Debug\net6.0\MusicArray.runtimeconfig.json
+C:\Users\Daniel\source\repos\Week 3\MusicArray\MusicArray\bin\Debug\net6.0\MusicArray.dll
+C:\Users\Daniel\source\repos\Week 3\MusicArray\MusicArray\bin\Debug\net6.0\MusicArray.pdb
+C:\Users\Daniel\source\repos\Week 3\MusicArray\MusicArray\obj\Debug\net6.0\MusicArray.dll
+C:\Users\Daniel\source\repos\Week 3\MusicArray\MusicArray\obj\Debug\net6.0\refint\MusicArray.dll
+C:\Users\Daniel\source\repos\Week 3\MusicArray\MusicArray\obj\Debug\net6.0\MusicArray.pdb
+C:\Users\Daniel\source\repos\Week 3\MusicArray\MusicArray\obj\Debug\net6.0\MusicArray.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\Week 3\MusicArray\MusicArray\obj\Debug\net6.0\ref\MusicArray.dll
